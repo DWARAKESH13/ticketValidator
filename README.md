@@ -63,7 +63,7 @@ If the browser blocks calls with a CORS error in development, run with the proxy
 
 ## 4. Figma Referene
 Figma File for branding Layout Design:
-(https://www.figma.com/design/H47nI1rGE3PHPBi6eFjUyx/Untitled?node-id=0-1&t=buXF3KYJpUJ5gpPS-1)
+https://www.figma.com/design/H47nI1rGE3PHPBi6eFjUyx/Ticket-QR-Validator?node-id=0-1&t=VJlR8VaJpfoMl55I-1
 
 ## 5. Claude Development Chat
 Chats Performed on Claude for Development:
