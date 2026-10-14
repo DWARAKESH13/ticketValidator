@@ -67,7 +67,7 @@ Figma File for branding Layout Design:
 
 ## 5. Claude Development Chat
 Chats Performed on Claude for Development:
-https://claude.ai/share/92208a41-6ee1-404d-9697-f22a2345f2ee
+https://claude.ai/share/5af6c110-6560-4c0f-820e-25dbf40dfee5
 
 
 
