@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ticket QR Validator
 
 React (Vite) web app for validating event tickets by QR code at the venue, with attendance analytics and a scan history.
@@ -38,3 +39,6 @@ If the browser blocks calls with a CORS error in development, run with the proxy
 
 ## 4. Git
 Branch: `feature/ticket-qr-validator`. Remote: add yours with `git remote add origin <url> && git push -u origin feature/ticket-qr-validator`.
+=======
+# ticketValidator
+>>>>>>> f6d6310213b014dcfd2cfe6957cd092ee4bc6197
